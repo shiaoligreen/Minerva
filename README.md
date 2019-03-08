@@ -9,6 +9,10 @@
 * __Final Project__: Single and multivariable PCA analysis, global polynomial interpolation on a reduced data set, (Liang, Li, Zhang, Huang, & Chen, 2016).
 * __Image Compression and Processing__: Singular Value Decomposition applied to a symmetric versus an asymmetric image using Octave.
 
+## Knowledge: Information Based Decisions
+
+* __Final Project__: Replication and extension of results in R (Hainmueller, Hiscox, & Sequeira, 2015).
+
 ## Modern Computational Statistics
 
 * __Central Limit Theorem__: Answering questions about the 95% confidence interval table at https://ropercenter.cornell.edu/support/polling-fundamentals-total-survey-error/
@@ -17,6 +21,8 @@
 
 ### References
 
-Bender, M. A., Zadok, E., Farach-Colton, M., Johnson, R., Kraner, R., Kuszmaul, B. C., . . . Spillane, R. P. (2012). Don't Thrash: Howto Cache your Hash on Flash.Proceedings of the VLDB Endowment,5(11), 1627-1637. doi:10.14778/2350229.2350275
+Bender, M. A., Zadok, E., Farach-Colton, M., Johnson, R., Kraner, R., Kuszmaul, B. C., . . . Spillane, R. P. (2012). Don't Thrash: How to Cache your Hash on Flash. Proceedings of the VLDB Endowment,5(11), 1627-1637. doi:10.14778/2350229.2350275
+
+Hainmueller, J., Hiscox, M., & Sequeira, S. (2015). Consumer Demand for Fair Trade: Evidence from a Multi-Store Field Experiment. The Review of Economics and Statistics, 97(2),242-256. DOI:10.1162/REST_a_00467
 
 Liang, X., Li, S., Zhang, S., Huang, H., and Chen, S. X. (2016). PM2.5 data reliability, consistency, and air quality assessment in five Chinese cities. Journal of Geophysical Research: Atmospheres, 121(17). doi:10.1002/2016jd024877
